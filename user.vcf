@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Malvian;Felix;;;
+FN:Felix Malvian
+ORG:Zenex Technologies;
+TITLE:IT Consultant
+EMAIL;type=INTERNET;type=WORK;type=pref:felix.m@zenex.sg
+TEL;type=WORK;type=VOICE:+65 8695 9177
+END:VCARD
